@@ -1,0 +1,10 @@
+easyocr
+skimage
+os
+PIL
+torch
+numpy
+cv2
+torchvision
+tqdm
+pathlib

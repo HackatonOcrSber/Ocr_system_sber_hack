@@ -1,0 +1,15 @@
+re
+pyaspeller
+fuzzywuzzy
+jamspell
+opencv-python
+tqdm
+numpy
+tempfile
+argparse
+pandas
+PIL
+os
+jamspell
+fuzzywuzzy
+pyaspeller
