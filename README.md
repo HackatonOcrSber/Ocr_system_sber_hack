@@ -12,4 +12,4 @@ pip install -r add_requirements.txt
 
 python3 score_test_data.py
 
-Остальные примеры использования модели подгрузить не успел. Смотрите его работу в боте телеграмаhttps://t.me/Kikicher_bot
+Остальные примеры использования модели подгрузить не успел. Смотрите его работу в боте телеграма: https://t.me/Kikicher_bot
